@@ -1,0 +1,5 @@
+
+Hello, this is a sample file.
+It contains multiple lines of text.
+Python file handling is fun!
+Let's see how this gets transformed.
